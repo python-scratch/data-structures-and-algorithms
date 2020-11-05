@@ -3,9 +3,9 @@ class LinkedList:
     Put docstring here
     """
 
-    def __init__(self):
+    def __init__(self, head):
         # initialization here
-        pass
+        self.head = head
 
     def some_method(self):
         # method body here
