@@ -3,7 +3,7 @@ class LinkedList:
     Put docstring here
     """
 
-    def __init__(self, head):
+    def __init__(self, head=None):
         # initialization here
         self.head = head
 
